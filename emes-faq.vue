@@ -1,17 +1,11 @@
 <!--
  * @Atuhor: Lee
  * @Date: 2021-10-09 10:00:32
- * @LastEditTime: 2021-10-09 10:00:32
- * @FilePath: \vite\src\components\aa.vue
--->
-<!--
- * @Atuhor: Lee
- * @Date: 2021-10-09 10:00:32
- * @LastEditTime: 2021-10-09 10:12:15
- * @FilePath: \vite\src\components\faq.vue
+ * @LastEditTime: 2021-10-09 10:15:35
+ * @FilePath: \vite\src\components\emes-faq.vue
 -->
 <template>
-  <div>
+  <div class="page">
       <h2>The top model of EV charging stations – EvPro Smart</h2>
       <p> A smart and efficient charging station with power ratings up to 22kW. EvPro Smart makes it easy and affordable to invest in a modern forward-looking charging infrastructure. Its lightning-intelligent, gives you more power, smarter control, and a high level of security. Built to comply with standard regulations, the EvPro Smart comes with integrated type B RCD protection. The charger is packed with state-of-the-art tech, and always online with Wi-Fi or 4G, EvPro Smart keeps itself up to date with the latest functions and updates. </p>
       <ol>
